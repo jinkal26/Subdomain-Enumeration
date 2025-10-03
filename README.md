@@ -61,9 +61,15 @@ localhost
 
 localtest.me
 
-Development / Testing
+Development / Testing-
+
 Run the built-in tests:
+
 python subdomain_enumeration.py --selftest
 
 Tests use mocked HTTP responses, so no network connection is required.
 
+
+OUTPUT:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d52f7c45-17b1-4598-aa33-ac4c44c94e4a" />
